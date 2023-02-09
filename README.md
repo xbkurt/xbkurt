@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Batuhan
+# :raised_hand: Hi, I'm Batuhan
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/batuhan-kurt/)
 
